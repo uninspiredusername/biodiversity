@@ -10,6 +10,8 @@ Here are a few questions that this project has sought to answer:
 - Are the differences between species and their conservation status significant?
 - Which animal is most prevalent and what is their distribution amongst parks?
 
+Jump in biodiversity.ipynb to see the analysis and what we uncovereed.
+
 **Data sources:**
 
 Both `Observations.csv` and `Species_info.csv` was provided by [Codecademy.com](https://www.codecademy.com).
